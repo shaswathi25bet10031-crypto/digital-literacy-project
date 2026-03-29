@@ -1,8 +1,8 @@
 # Digital Literacy Project
 
 
-- Name: [Sri Shaswathi P]
-- Registration Number: [25BET10031]
+- Name: Sri Shaswathi P
+- Registration Number:25BET10031
 - Branch: B.Tech CSE
 - Year: 1st Year
 - Course: CSE0001 – Digital Literacy
